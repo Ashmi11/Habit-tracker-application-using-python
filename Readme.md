@@ -2,6 +2,7 @@ Overview
 The Habit Tracker application is designed to help users track their daily and weekly habits, monitor streaks, and analyze their habit completion patterns. The application includes a graphical user interface (GUI) built using the Tkinter library in Python. The core functionality is implemented in the habit_tracker.py script, and the GUI is implemented in the habit_tracker_gui.py script. Additionally, there are unit tests in the test_habit_tracker.py script to ensure the correct behavior of the core functionality.
 
 Table of Contents
+
 1.Dependencies
 2.Installation
 3.Usage
@@ -11,7 +12,7 @@ Table of Contents
 7.Testing
 
 Dependencies
-Python Version: Python 3.x
+Python Version: Python 3.3 or higher
 Tkinter: The GUI is built using the Tkinter library, which is included in standard Python installations.
 json: The application uses the JSON module for reading and writing habit data to a file.
 os: The os module is used for file-related operations.
@@ -65,3 +66,15 @@ Testing
 
 The test_habit_tracker.py script contains a suite of unit tests. Run the tests with:
 python test_habit_tracker.py
+
+
+Note: 
+
+Ensure that the habit_tracker.py script is in the same directory as habit_tracker_gui.py and test_habit_tracker.py for the GUI and unit tests to work correctly.
+
+This documentation provides an overview of the application's functionality and usage. For detailed information about the classes and methods, refer to the comments and docstrings in the source code.
+
+
+
+
+
