@@ -56,6 +56,7 @@ Features
 Broken Habits Detection: Identify habits with streaks broken due to non-completion.
 
 
+
 Graphical User Interface
 
 The graphical user interface (GUI) offers a more user-friendly experience for habit 
