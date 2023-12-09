@@ -25,7 +25,7 @@ unittest: The unittest module is used for writing and executing unit tests.
 
 Installation
 
-1.Clone the repository to your local machine
+ 1.Clone the repository to your local machine. 
  git clone:  https://github.com/Ashmi11/Habit-tracker-application-using-python 
 
 2.Navigate to the project directory:
