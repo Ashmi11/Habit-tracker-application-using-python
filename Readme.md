@@ -81,6 +81,8 @@ Testing
 The test_habit_tracker.py script contains a suite of unit tests. Run the tests with:
 python test_habit_tracker.py
 
+The test data should be modifies according to the time it is being carried out to ensure accurate results.
+For example, the test case for broken habits requires that only one habit is broken for test to pass, so the simulation of completed time for habits should be adjusted accordingly.
 
 Note: 
 
