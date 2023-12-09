@@ -43,12 +43,12 @@ python habit_tracker_gui.py
 
 Features
 
-Create Habit: Add new habits with specified names and periodicities.
-Delete Habit: Remove existing habits based on their names.
-Complete Task: Mark a habit as completed, incrementing its streak.
-Streak Analytics: Retrieve streak information for individual habits or the longest streak across all habits.
-Periodicity Filtering: List habits based on their periodicity (daily or weekly).
-Broken Habits Detection: Identify habits with streaks broken due to non-completion.
+a) Create Habit: Add new habits with specified names and periodicities.
+b) Delete Habit: Remove existing habits based on their names.
+c) Complete Task: Mark a habit as completed, incrementing its streak.
+d) Streak Analytics: Retrieve streak information for individual habits or the longest streak across all habits.
+e) Periodicity Filtering: List habits based on their periodicity (daily or weekly).
+f) Broken Habits Detection: Identify habits with streaks broken due to non-completion.
 
 
 Graphical User Interface
