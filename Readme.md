@@ -16,7 +16,7 @@ Table of Contents
 
 Dependencies
 
-Python Version: Python 3.3 or higher
+Python Version: Python 3.7 or higher
 Tkinter: The GUI is built using the Tkinter library, which is included in standard Python installations.
 json: The application uses the JSON module for reading and writing habit data to a file.
 os: The os module is used for file-related operations.
